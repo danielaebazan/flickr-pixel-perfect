@@ -135,8 +135,11 @@ footer {
     font-size: 13px;
     padding: 10px;
     text-align: center;
-    margin-top: 555px;
     color: white;
+    position: absolute;
+    bottom: 65px;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 .title:hover {
